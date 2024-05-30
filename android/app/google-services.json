@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236515048151",
+    "project_id": "menuapp-f612a",
+    "storage_bucket": "menuapp-f612a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236515048151:android:bc18fc26361dcbf3f6ce92",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4XkrfgwGyf-_85oyWgnfTab6OSs8G67E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
